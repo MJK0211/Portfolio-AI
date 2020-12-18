@@ -1,7 +1,3 @@
-### Final_Project / 인공지능👋
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MJK0211&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![MJK0211's github stats](https://github-readme-stats.vercel.app/api?username=MJK0211&theme=default)](https://github.com/anuraghazra/github-readme-stats)
-
 # 인공지능 2차 Final_Project 이미지분석을 활용한 영상 얼굴 검출
 - 팀장:김민종, 팀원:이경훈, 팀장:전우석, 팀원:한남규
 
