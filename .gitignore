@@ -16,13 +16,9 @@
 *.h5
 *.hdf5
 *.v2
-*.npy
-*.csv
 *.json
 *.pb
 *.index
-*.jpg
-*.png
 *.avi
 *.mp4
 *.xml
@@ -42,13 +38,5 @@
 *.xls
 *.pdf
 *.docs
-*.ppt
-*.pptx
 
 #폴더
-data/
-model/
-save/
-graph/
-image_classifier/
-# End of https://www.toptal.com/developers/gitignore/api/visualstudiocode
