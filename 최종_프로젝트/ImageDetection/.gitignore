@@ -1,0 +1,54 @@
+# Created by https://www.toptal.com/developers/gitignore/api/visualstudiocode
+# Edit at https://www.toptal.com/developers/gitignore?templates=visualstudiocode
+
+### VisualStudioCode ###
+.vscode/*
+!.vscode/tasks.json
+!.vscode/launch.json
+*.code-workspace
+
+### VisualStudioCode Patch ###
+# Ignore all local history of files
+.history
+.ionide
+
+#data파일
+*.h5
+*.hdf5
+*.v2
+*.npy
+*.csv
+*.json
+*.pb
+*.index
+*.jpg
+*.png
+*.avi
+*.mp4
+*.xml
+*.exe
+*.log
+*.pyc
+#zip파일
+*.dmg
+*.iso
+*.tar
+*.zip
+*.gz
+
+
+#문서
+*.xlsx
+*.xls
+*.pdf
+*.docs
+*.ppt
+*.pptx
+
+#폴더
+data/
+model/
+save/
+graph/
+image_classifier/
+# End of https://www.toptal.com/developers/gitignore/api/visualstudiocode
